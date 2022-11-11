@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Purushotamkumar123
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Full Stack Webdeveloper At Newton School
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Vikasviplav/README.md
 
-<!---
-Purushotamkumar123/Purushotamkumar123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+LinkedIn Badge Twitter Badge
+ GitHub Badge
+Hi there! I'm Purushotam Kumar 
+
+Typing SVG
+
+Coding
+
+👨‍💻 About Me :
+🌱 I’m currently learning Full-Stack Web Development from Newton School.
+
+💬 Ask me about MERN
+
+
+📫 How to reach me purushotam9523865537@gmail.com
+
+⚡ Solving coding problems on HackerRank, Leetcode & GeeksForGeeks and explore new skills is my favourite pastime .
+
+Connect with me:
+Purushotam Kumar Purushotam Kumar
+
+Languages and Tools:
+c cplusplus css3 express git html5 java javascript linux matlab mongodb mysql nodejs react redux
+
+Purushotam Kumar
