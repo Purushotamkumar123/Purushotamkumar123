@@ -2,18 +2,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/vikas-viplav-726841203//">
+    <a href="https://www.linkedin.com/in/purushotam-kumar-0515b0227/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/vikasviplav2">
+    <a href="https://twitter.com/purusho27140463">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=vikasviplav&style=flat-square&color=blue" alt=""/>
-<a href="https://github.com/vikasviplav?tab=followers"><img src="https://img.shields.io/github/followers/vikasviplav?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Purushotamkumar123?tab=followers"><img src="https://img.shields.io/github/followers/vikasviplav?label=Followers&style=social" alt="GitHub Badge"></a>
  </div>
 
-<h1 align="center">Hi there! I'm Vikas Viplav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1 align="center">Hi there! I'm Purushotam Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
@@ -24,13 +24,11 @@
 
 ### :man_technologist: About Me :
 
-- 🌱 I’m currently learning Full-Stack Web Development from **Masai School**.
+- 🌱 I’m currently learning Full-Stack Web Development from **Newton School**.
 
 - 💬 Ask me about **MERN**
 
-- 💼 Pls visit **<a href="https://about-vikas-viplav.netlify.app/">My Portfolio</a>**
-
-- 📫 How to reach me **Vikashvipplav@gmail.com**
+- 📫 How to reach me **purushotam9523865537@gmail.com**
 
 - ⚡ Solving coding problems on HackerRank, Leetcode & GeeksForGeeks and explore new skills is my favourite pastime
   .
@@ -38,7 +36,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/vikasviplav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vikasviplav" height="30" width="40" /></a>
-<a href="https://codesandbox.com/vikashvipplav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vikashvipplav" height="30" width="40" /></a>
+<a href="https://codesandbox.com/Purushotam Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vikashvipplav" height="30" width="40" /></a>
 <a href="https://instagram.com/_almost_sanskari__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_almost_sanskari__" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vikashvipplav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikashvipplav" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vikas_viplav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikas_viplav" height="30" width="40" /></a>
