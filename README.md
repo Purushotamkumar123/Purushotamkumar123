@@ -9,8 +9,8 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=vikasviplav&style=flat-square&color=blue" alt=""/>
-<a href="https://github.com/Purushotamkumar123?tab=followers"><img src="https://img.shields.io/github/followers/vikasviplav?label=Followers&style=social" alt="GitHub Badge"></a>
+  <img src="https://komarev.com/ghpvc/?username=Purushotamkumar123&style=flat-square&color=blue" alt=""/>
+<a href="https://github.com/Purushotamkumar123?tab=followers"><img src="https://img.shields.io/github/followers/Purushotamkumar123?label=Followers&style=social" alt="GitHub Badge"></a>
  </div>
 
 <h1 align="center">Hi there! I'm Purushotam Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
